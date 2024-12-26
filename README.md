@@ -60,4 +60,4 @@ The goal of this project is to answer the question **Which machine learning clas
 
 
 ## Dataset 📊
-This project uses the [Spam Email Dataset](https://vis-www.cs.umass.edu/lfw/).
+This project uses the [LFW dataset](https://vis-www.cs.umass.edu/lfw/).
