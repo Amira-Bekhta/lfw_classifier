@@ -1,7 +1,7 @@
 
 # LFW dataset classification 🖼️
 
-This is a project where I have used many Scikit-learn classification algorithms on the Faces labeled on the wild (FLW) dataset
+This is a project where I have used many Scikit-learn classification algorithms on the labeled faces in the wild (LFW) dataset
 
 ## Goal 🎯
 The goal of this project is to answer the question **Which machine learning classifcation algorithm(s) can fit the FLW data with the highest posssible accuracy score?**
